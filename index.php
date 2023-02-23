@@ -15,7 +15,7 @@
 
 <body>
     <form action="#" method="post">
-        <ul  >
+        <ul>
             <li>
                 <label for="name">Nombre:</label>
                 <input type="text" id="name" name="user_name">
@@ -35,7 +35,7 @@
             <li class="button">
                 <button type="submit">Envíe su mensaje</button>
             </li>
-            
+    
         </ul>
 
         
